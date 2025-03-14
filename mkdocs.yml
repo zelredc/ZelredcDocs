@@ -1,0 +1,8 @@
+site_name: ZelredcDev Documentation
+theme:
+  name: null
+  custom_dir: cinder
+nav:
+- Home: index.md
+- Plugins:
+  - Multiplayer Health and Health Bar: 'health.md'

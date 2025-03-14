@@ -1,6 +1,6 @@
 # Multiplayer Health and Health Bar
 
-Need help?: (Join the Discord)[https://discord.gg/khM4XEsGHY]
+Need help?: [Join the Discord](https://discord.gg/khM4XEsGHY)
 
 # Features
 

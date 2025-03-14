@@ -1,4 +1,5 @@
 site_name: ZelredcDev Documentation
+site_dir: website
 theme:
   name: null
   custom_dir: cinder
